@@ -17,7 +17,6 @@ int main(){
     printf("7. BCNN\n");
     printf("8. thoat\n");
     printf("Lua chon cua ban:");
-    //2. Khái bao bien choice chua gia tr? L?a ch?n c?a khách hŕng
     int choice; scanf("%d",&choice);
     switch(choice) {
     case 1:
