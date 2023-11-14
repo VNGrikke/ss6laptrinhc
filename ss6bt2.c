@@ -17,7 +17,7 @@ int main(){
     printf("7. BCNN\n");
     printf("8. thoat\n");
     printf("Lua chon cua ban:");
-    //2. Kh·i bao bien choice chua gia tr? L?a ch?n c?a kh·ch h‡ng
+    //2. Kh√°i bao bien choice chua gia tr? L?a ch?n c?a kh√°ch h≈ïng
     int choice; scanf("%d",&choice);
     switch(choice) {
     case 1:
@@ -55,7 +55,7 @@ int main(){
     case 8:
         exit(0);
     default:
-        printf("Vui long chon tu 1-7\n");
+        printf("Vui long chon tu 1-8\n");
     }
-    } while ("Vui long cho tu 1 - 7\n");
+    } while ("Vui long cho tu 1 - 8\n");
 }
